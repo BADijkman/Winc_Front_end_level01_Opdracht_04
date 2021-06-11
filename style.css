@@ -1,0 +1,48 @@
+body {
+  background-color: #84858c;
+  font-family: "Courier New", Courier, monospace;
+  color: red;
+  font: size 17
+  px;
+}
+h2 {
+  color: black;
+}
+h2.broer{
+  font-family: monospace;
+  font-size: 30px;
+  text-decoration: underline;
+  color:rgb(89, 65, 48);
+}
+.black-border {
+  border: 5px solid black;
+}
+p {
+  color: #c1b9ce;
+}
+#green-background {
+  background-color: green;
+  border: 2px dotted red;
+}
+ul .een {
+  color: rgb(64, 255, 0);
+  font-size: 23px ;
+}
+.twee {
+  color: blue;
+  font-size: 20px ;
+}
+ul .twee {
+  color: rgb(255, 225, 0);
+  font-size: 20px ;
+}
+a.homebutton{
+  font-family: monospace;
+  color:black;
+  font-size: 40px;
+  text-decoration: none;
+  border: 2px solid red;
+  background-color: rgb(211, 122, 122);
+}
+
+
