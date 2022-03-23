@@ -4,7 +4,7 @@ const searchField = document.getElementById("searchField");
 
 // get URL
 const imdbURL = (id) => {
-  return "http://www.dykey.nl/test" + id;
+  return "http://www.dykey.nl/test/" + id;
 };
 
 // add movies to the dom
