@@ -9,7 +9,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-      "https://dykey.nl/image/1024/Droombeeld (1 van 52).jpg"
+      "https://dykey.nl/image/300/Droombeeld (1 van 52).jpg"
   },
 
   {
@@ -35,7 +35,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (3 van 52).jpg" 
+    "https://dykey.nl/image/300/Droombeeld (3 van 52).jpg" 
    },
 
   {
@@ -48,7 +48,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (4 van 52).jpg"  },
+    "https://dykey.nl/image/300//Droombeeld (4 van 52).jpg"  },
 
   {
     Title: "X-Men: The Last Stand",
@@ -60,7 +60,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (5 van 52).jpg"  },
+    "https://dykey.nl/image/300//Droombeeld (5 van 52).jpg"  },
 
   {
     Title: "X-Men Origins: Wolverine",
@@ -72,7 +72,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (6 van 52).jpg"  },
+    "https://dykey.nl/image/300//Droombeeld (6 van 52).jpg"  },
 
   {
     Title: "X-Men: Apocalypse",
@@ -96,7 +96,7 @@ const movies = [
     Type: "series",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (8 van 52).jpg"  },
+    "https://dykey.nl/image/300//Droombeeld (8 van 52).jpg"  },
 
   {
     Title: "X-Men: Evolution",
@@ -108,7 +108,7 @@ const movies = [
     Type: "series",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (9 van 52).jpg"  },
+    "https://dykey.nl/image/300//Droombeeld (9 van 52).jpg"  },
 
   {
     Title: "Wolverine and the X-Men",
@@ -120,7 +120,7 @@ const movies = [
     Type: "series",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (10 van 52).jpg"  },
+    "https://dykey.nl/image/300//Droombeeld (10 van 52).jpg"  },
 
   {
     Title: "The Avengers",
@@ -132,7 +132,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (11 van 52).jpg"  },
+    "https://dykey.nl/image/300//Droombeeld (11 van 52).jpg"  },
 
 
   {
@@ -145,7 +145,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (12 van 52).jpg"   },
+    "https://dykey.nl/image/300//Droombeeld (12 van 52).jpg"   },
 
   {
     Title: "Avengers: Age of Ultron",
@@ -157,7 +157,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (13 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (13 van 52).jpg"   },
 
   {
     Title: "Avengers: Endgame",
@@ -169,7 +169,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (14 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (14 van 52).jpg"   },
 
   {
     Title: "The Avengers",
@@ -181,7 +181,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (15 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (15 van 52).jpg"   },
 
   {
     Title: "The Avengers: Earth's Mightiest Heroes",
@@ -193,7 +193,7 @@ const movies = [
     Type: "series",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (16 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (16 van 52).jpg"   },
 
   {
     Title: "Ultimate Avengers",
@@ -205,7 +205,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (17 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (17 van 52).jpg"   },
 
   {
     Title: "Ultimate Avengers II",
@@ -217,7 +217,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (18 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (18 van 52).jpg"   },
 
   {
     Title: "The Avengers",
@@ -229,7 +229,7 @@ const movies = [
     Type: "series",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (19 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (19 van 52).jpg"   },
 
   {
     Title: "Batman Begins",
@@ -241,7 +241,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (20 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (20 van 52).jpg"   },
 
   {
     Title: "Batman v Superman: Dawn of Justice",
@@ -253,7 +253,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (21 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (21 van 52).jpg"   },
 
   {
     Title: "Batman",
@@ -265,7 +265,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (22 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (22 van 52).jpg"   },
 
   {
     Title: "Batman Returns",
@@ -277,7 +277,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (23 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (23 van 52).jpg"   },
 
   {
     Title: "Batman Forever",
@@ -289,7 +289,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (24 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (24 van 52).jpg"   },
 
   {
     Title: "Batman & Robin",
@@ -301,7 +301,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (25 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (25 van 52).jpg"   },
 
   {
     Title: "The Lego Batman Movie",
@@ -313,7 +313,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (26 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (26 van 52).jpg"   },
 
   {
     Title: "Batman: The Animated Series",
@@ -325,7 +325,7 @@ const movies = [
     Type: "series",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (27 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (27 van 52).jpg"   },
 
   {
     Title: "Batman: Under the Red Hood",
@@ -337,7 +337,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (28 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (28 van 52).jpg"   },
 
   {
     Title: "Batman: The Dark Knight Returns, Part 1",
@@ -349,7 +349,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (29 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (29 van 52).jpg"   },
 
   {
     Title: "The Princess Bride",
@@ -361,7 +361,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (30 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (30 van 52).jpg"   },
 
   {
     Title: "Princess Mononoke",
@@ -373,7 +373,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (31 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (31 van 52).jpg"   },
 
   {
     Title: "The Princess Diaries",
@@ -385,7 +385,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (32 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (32 van 52).jpg"   },
 
   {
     Title: "The Princess and the Frog",
@@ -397,7 +397,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (33 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (33 van 52).jpg"   },
 
   {
     Title: "The Princess Diaries 2: Royal Engagement",
@@ -409,7 +409,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (34 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (34 van 52).jpg"   },
 
   {
     Title: "Xena: Warrior Princess",
@@ -421,5 +421,5 @@ const movies = [
     Type: "series",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (35 van 52).jpg"   },
+    "https://dykey.nl/image/300/Droombeeld (35 van 52).jpg"   },
 ];
