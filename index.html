@@ -1,39 +1,58 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title> Mijn eerste HTML pagina  </title>
-        <link rel="stylesheet"  type="text/css" href="style.css">
-    </head>
-    <body>
-        
-        <header >
-             <h1 class="black-border">Recepten website van Winc.</h1>
-             <img height="200" src="https://pbs.twimg.com/profile_images/1095643863799291906/MZ_Vvu81.png" alt="logo">
-        </header>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FilmZoeker</title>
+    <link rel="stylesheet" href="style/style.css">
+    <script src="script/movies.js" defer></script>
+    <script src="script/main.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>FILMZOEKER</h1>
+    </header>
+    <nav>
+        <ul class="search-bar">
+            <li>
+                <input type="radio" id="all-movies" name="movie-filter" value="all-movies">
+                <label for="all-movies">All Movies</label>
+            </li>
+            <li>
+                <input type="radio" id="new-movies" name="movie-filter" value="new-movies">
+                <label for="new-movies">New Movies</label>
+            </li>
+            <li>
+                <input type="radio" id="avenger-movies" name="movie-filter" value="avenger-movies">
+                <label for="avenger-movies">Avenger Movies</label>
+            </li>
+            <li>
+                <input type="radio" id="xmen-movies" name="movie-filter" value="xmen-movies">
+                <label for="xmen-movies">X-Men Movies</label>
+            </li>
+            <li>
+                <input type="radio" id="princess" name="movie-filter" value="princess-movies">
+                <label for="princess">Princess Movies</label>
+            </li>
+            <li>
+                <input type="radio" id="batman-movies" name="movie-filter" value="batman-movies">
+                <label for="batman-movies">Batman Movies</label>
+            </li>
 
-        <nav>
-            <a href="about.html">hier is een pagina over mij</a>
-            <br>
-            <a href="http://www.google.nl" target="_blank">google</a>
-        </nav>
-       
-        <main>
-            <h2>Hier volgt een lekker recept.</h2>
-            <hr>
-            <p class="black-border"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores veritatis earum rem! Enim vel nihil vero officiis laborum, asperiores officia ex perspiciatis? Ad beatae blanditiis facilis dolore perspiciatis molestias modi.
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus sit sapiente dolor dolores error vero recusandae amet ipsam enim incidunt officia dolorem, deserunt nostrum iusto a quasi animi impedit officiis.
-            </p>
-            <h2 id="green-background">benodigdheden</h2>
-            <ul>
-                <li class="een">Tomaat</li>
-                <li class="twee">Brood</li>
-                <li>Komkommer</li>
-            </ul>
-            <p class="twee">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque similique itaque ipsam totam, aperiam ipsum incidunt quibusdam inventore qui ex fugiat dolor iure vitae quo laudantium id exercitationem eius nemo!</p>
-        </main>
-
-        <footer>
-            <h3>Copyright 2021</h3>
-        </footer>  
-    </body>
+            <li class= "search">
+                <label for="searchField"> Search</label>
+                <input type="text" id="searchField" name="searchField" placeholder="Enter text" >
+            </li>
+        </ul>
+    </nav>
+    <main>
+        <div class="movie-container">
+            <ul class="movie-container__wrapper" id="movie-list"></ul>
+        </div>
+    </main>
+    <footer>
+        <h2>BADijkman copyright 2021</h2>
+    </footer>
+</body>
 </html>
