@@ -4,7 +4,7 @@ const movies = [
 
     Year: "2014",
 
-    imdbID: "drbe001",
+    imdbID: "drbe001.html",
 
     Type: "movie",
 
