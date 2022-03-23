@@ -22,7 +22,7 @@ const movies = [
     Type: "movie",
 
     Poster:
-    "https://dykey.nl/image/1024/Droombeeld (2 van 52).jpg"
+    "https://dykey.nl/image/1024/Droombeeld (36 van 52).jpg"
     },
 
   {
